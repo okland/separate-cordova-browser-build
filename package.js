@@ -2,7 +2,7 @@ Package.describe({
   name: 'okland:separate-cordova-browser-build',
   version: '0.0.1',
   summary: 'Separate Cordova and Browser meteor build, ignore files ending .browser.* on cordova build',
-  git: '',
+  git: 'https://github.com/okland/separate-cordova-browser-build.git',
   documentation: 'README.md'
 });
 
