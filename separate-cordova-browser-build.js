@@ -1,4 +1,4 @@
-var types = ['js','css', 'less', 'html'];
+var types = ['js','css', 'less', 'html', 'ng.js', 'ng.html'];
 for (var i in types) {
     // On browser if has cordova ending
     // Ignore all files with js css or html ending
